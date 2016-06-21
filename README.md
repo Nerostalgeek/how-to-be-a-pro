@@ -14,7 +14,6 @@ N'hésiter pas à pull request si vous tombez sur une perle rare.
 - https://laracasts.com : 9$/mois, si vous souhaitez torcher Laravel, c'est par içi. Anglais avec une prononciation parfaite pour les Francophone.
 - http://korben.info : veille geek sur des sujets divers, en français.
 - https://github.com/braydie/HowToBeAProgrammer : anglais, pour apprendre la vision collective.
-- http://www.w3schools.com : anglais, un classique pour apprendre les bases ou chercher un renseignement avec quelques exemples.
 - http://www.html5rocks.com : anglais, vous y trouverez des tutoriels écrit.
 - https://la-cascade.io : français, un maître du pure CSS.
 - http://tympanus.net/codrops/ : innovant et créatif, en anglais.
