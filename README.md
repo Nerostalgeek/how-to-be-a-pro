@@ -18,3 +18,4 @@ N'hésiter pas à pull request si vous tombez sur une perle rare.
 - https://la-cascade.io : français, un maître du pure CSS.
 - http://tympanus.net/codrops/ : innovant et créatif, en anglais.
 - https://scotch.io : excellent site anglais sur un tas de techno nouvelle, parfait pour expérimenter
+- http://livecoding.tv : Est une plate-forme de streaming pour les developpeurs.
